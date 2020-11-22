@@ -10,6 +10,7 @@ Starting MyIndex
 6. In the terminal naviage to the folder containing your jar file and type the command: java -jar MyIndex.jar
 
 Running MyIndex
+
 7. Select which index to create
 8. After the inverted index is created either search for a term or select top n.
 9. When you are done with the code select "delete index" then close the GUI.
