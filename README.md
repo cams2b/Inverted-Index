@@ -2,7 +2,7 @@
 This program generates an inverted index for any .txt files and allows the user to search for terms and generate the top words.
 
 Starting MyIndex
-1. Download the MyIndex.jar file from the repository from the following link: https://pitt-my.sharepoint.com/:f:/g/personal/cab347_pitt_edu/Ejv3PiFM4lhKo0uCHcBg5IMB_LoUJPH0H7_L7pp2KxAKIg?e=xTUmSi
+1. Download the MyIndex.jar file and JSON key from the repository from the following link: https://pitt-my.sharepoint.com/:f:/g/personal/cab347_pitt_edu/Ejv3PiFM4lhKo0uCHcBg5IMB_LoUJPH0H7_L7pp2KxAKIg?e=xTUmSi
 2. Unzip the jar file
 3. Navigate to your terminal and type the following command: export GOOGLE_APPLICATION_CREDENTIALS=" insert path to JSON key "
 4. Enter the following command: echo $GOOGLE_APPLICATION_CREDENTIALS
